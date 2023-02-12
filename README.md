@@ -28,13 +28,13 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 - Melhorar estilização do app
 
 ## Author
-Leticia costa silva (follow me on [Instagram](@Leticia_costae))
+Leticia costa silva (follow me on [Instagram](https://www.instagram.com/leticia_costae/))
 
 ## License
 ```
 The MIT License (MIT)
 
-Copyright (c) 2021 Leticia costa silva
+Copyright (c) 2023 Leticia costa silva
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
